@@ -7,7 +7,7 @@ City Guide:
 
 This project is a complete solution to your problems in a new city. You can see, book, cancel bookings of Hotels, Museums, Restaurants in different areas of the city. You can also see the news across the areas. The project is implemented using many data structures like arrays, arraylists, Binary Search Trees, Linkedlists etc. We also did some file handling.
 
-Features:
+Features: 
 
 Book hotels, restaurants, and museums in different areas of the city.
 Cancel bookings.
